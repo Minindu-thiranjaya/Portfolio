@@ -27,8 +27,8 @@ const Education = () => {
         "Combined Mathematics",
         "Physics",
         "Chemistry",
-        "General English",
-        "Academic Excellence Recognition"
+        "General English"
+        
       ]
     }
   ];
