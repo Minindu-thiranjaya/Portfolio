@@ -119,10 +119,10 @@ const Footer = () => {
               <div>
                 <p className="text-sm text-muted-foreground">Phone</p>
                 <a 
-                  href="tel:+94771234567"
+                  href="tel:+94 76 397 8918"
                   className="text-foreground hover:text-primary transition-colors"
                 >
-                  +94 77 123 4567
+                  +94 76 397 8918
                 </a>
               </div>
               <div>
