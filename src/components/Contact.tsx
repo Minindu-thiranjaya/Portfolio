@@ -21,10 +21,10 @@ const Contact = () => {
 
     emailjs
       .sendForm(
-        'service_my3qf8f',      // Your EmailJS service ID
-        'template_gbwuaih',     // Your EmailJS template ID
+        'service_my3qf8f',      //  EmailJS service ID
+        'template_gbwuaih',     //  EmailJS template ID
         form.current,
-        'JJxtvGBWQPEY7rLLw'     // Your EmailJS public key
+        'JJxtvGBWQPEY7rLLw'     
       )
       .then(
         () => {
@@ -56,8 +56,8 @@ const Contact = () => {
     {
       icon: Phone,
       title: "Phone",
-      value: "+94 77 123 4567",
-      href: "tel:+94771234567"
+      value: "+94 76 397 8918",
+      href: "tel:+94 76 397 8918"
     },
     {
       icon: MapPin,
