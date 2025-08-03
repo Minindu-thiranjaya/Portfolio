@@ -119,10 +119,10 @@ const Footer = () => {
               <div>
                 <p className="text-sm text-muted-foreground">Phone</p>
                 <a 
-                  href="tel:+94 76 397 8918"
+                  href="tel:+94771234567"
                   className="text-foreground hover:text-primary transition-colors"
                 >
-                  +94 76 397 8918
+                  +94 77 123 4567
                 </a>
               </div>
               <div>
@@ -154,6 +154,8 @@ const Footer = () => {
             <span>© 2025 Minindu Thiranjaya. All rights reserved.</span>
           </div>
 
+        </motion.div>
+      </div>
 
       {/* Scroll to top button */}
       <motion.button
