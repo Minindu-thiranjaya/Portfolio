@@ -66,10 +66,10 @@ const Hero = () => {
   };
 
   const handleDownloadCV = () => {
-    const cvUrl = '/Minidu_Thiranjaya_CV.pdf';
+    const cvUrl = '/Minindu_Thiranjaya_Resume.pdf';
     const link = document.createElement('a');
     link.href = cvUrl;
-    link.download = 'Minidu_Thiranjaya_CV.pdf';
+    link.download = 'Minindu_Thiranjaya_Resume.pdf';
     document.body.appendChild(link);
     link.click();
     document.body.removeChild(link);
