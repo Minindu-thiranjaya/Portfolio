@@ -213,7 +213,7 @@ const Hero = () => {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 0.8, delay: 0.2 }}
             >
-              Minidu{' '}
+              Minindu{' '}
               <span className="bg-gradient-to-r from-primary-glow to-accent bg-clip-text text-transparent">
                 Thiranjaya
               </span>
