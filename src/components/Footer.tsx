@@ -154,30 +154,6 @@ const Footer = () => {
             <span>© 2025 Minindu Thiranjaya. All rights reserved.</span>
           </div>
 
-          <div className="flex items-center space-x-6 text-sm text-muted-foreground">
-            <motion.a 
-              href="#"
-              className="hover:text-primary transition-colors"
-              whileHover={{ y: -2 }}
-            >
-              Privacy Policy
-            </motion.a>
-            <motion.a 
-              href="#"
-              className="hover:text-primary transition-colors"
-              whileHover={{ y: -2 }}
-            >
-              Terms of Service
-            </motion.a>
-            <motion.div
-              className="text-xs bg-muted px-3 py-1 rounded-full"
-              whileHover={{ scale: 1.05 }}
-            >
-              v1.0.0
-            </motion.div>
-          </div>
-        </motion.div>
-      </div>
 
       {/* Scroll to top button */}
       <motion.button
